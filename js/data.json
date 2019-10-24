@@ -1,0 +1,133 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "icon_name": "icon fa fa-chain fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 2,
+      "icon_name": "icon fa fa-bolt fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    },
+    {
+      "id": 3,
+      "icon_name": "icon fa fa-tachometer fa-2x",
+      "title": "Mobile Ux",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "images/Portfolio/portfolio-img1.jpg"
+    },
+    {
+      "id": 2,
+      "image": "images/Portfolio/portfolio-img2.jpg"
+    },
+    {
+      "id": 3,
+      "image": "images/Portfolio/portfolio-img3.jpg"
+    },
+    {
+      "id": 4,
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 5,
+      "image": "images/Portfolio/portfolio-img5.jpg"
+    },
+    {
+      "id": 6,
+      "image": "images/Portfolio/portfolio-img6.jpg"
+    },
+    {
+      "id": 7,
+      "image": "images/Portfolio/portfolio-img4.jpg"
+    },
+    {
+      "id": 8,
+      "image": "images/Portfolio/portfolio-img8.jpg"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "icon": "icon fa fa-facebook fa-lg",
+      "title": "Follow Me on",
+      "body": "Social Facebook"
+    },
+    {
+      "id": 2,
+      "icon": "icon fa fa-twitter fa-lg",
+      "title": "Tweet Me on",
+      "body": "Social twitter"
+    },
+    {
+      "id": 3,
+      "icon": "icon fa fa-pinterest fa-lg",
+      "title": "Pin Me on",
+      "body": "Social Pinterest"
+    }
+  ],
+  "profile": {
+    "item": [
+      {
+        "id": 1,
+        "key": "Name",
+        "value": "Hamza Nabil",
+        "style": ""
+      },
+      {
+        "id": 2,
+        "key": "Birthday",
+        "value": "21/1/1996",
+        "style": ""
+      },
+      {
+        "id": 3,
+        "key": "Address",
+        "value": "Ain shams",
+        "style": ""
+      },
+      {
+        "id": 4,
+        "key": "Phone",
+        "value": "4444 5555 6666",
+        "style": ""
+      },
+      {
+        "id": 5,
+        "key": "Email",
+        "value": "hamza@hamza.com",
+        "style": ""
+      },
+      {
+        "id": 6,
+        "key": "Website",
+        "value": "www.google.com",
+        "style": "web"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "title":"Bootstrap",
+        "perc":"100"
+      },
+      {
+        "id": 2,
+        "title":"CSS3",
+        "perc":"90"
+      },
+      {
+        "id": 3,
+        "title":"Photoshop",
+        "perc":"80"
+      }
+    ]
+  }
+}
